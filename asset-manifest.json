@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e45cdd6c.css",
-    "main.js": "/static/js/main.e279539f.js",
+    "main.css": "/static/css/main.89e79e98.css",
+    "main.js": "/static/js/main.4493fba6.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/MT.png": "/static/media/MT.419323a10b1d7e602ab3.png",
+    "static/media/geospatial_map_preview.png": "/static/media/geospatial_map_preview.f3ee43e912e935ae21fe.png",
+    "static/media/VT2.png": "/static/media/VT2.488b4ba2be06b01f0e38.png",
+    "static/media/VT1.png": "/static/media/VT1.338928a051866834487a.png",
+    "static/media/PeekSeek.png": "/static/media/PeekSeek.3d13ed83591333679b71.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/UX-UI.png": "/static/media/UX-UI.32f3df1f5f82605511d7.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.9bd08865a98443aa6d0d.jpeg",
+    "static/media/AI-bot.png": "/static/media/AI-bot.bbe522031dc97b7bdfd2.png",
     "index.html": "/index.html",
-    "main.e45cdd6c.css.map": "/static/css/main.e45cdd6c.css.map",
-    "main.e279539f.js.map": "/static/js/main.e279539f.js.map",
+    "main.89e79e98.css.map": "/static/css/main.89e79e98.css.map",
+    "main.4493fba6.js.map": "/static/js/main.4493fba6.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e45cdd6c.css",
-    "static/js/main.e279539f.js"
+    "static/css/main.89e79e98.css",
+    "static/js/main.4493fba6.js"
   ]
 }
